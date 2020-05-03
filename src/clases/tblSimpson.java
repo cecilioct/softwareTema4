@@ -10,7 +10,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author cecilio
+ * @author Bryan
  */
 public class tblSimpson extends AbstractTableModel {
 
